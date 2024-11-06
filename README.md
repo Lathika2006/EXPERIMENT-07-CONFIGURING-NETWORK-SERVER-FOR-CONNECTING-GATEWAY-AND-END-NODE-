@@ -1,4 +1,4 @@
- ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+![Screenshot 2024-10-14 085123](https://github.com/user-attachments/assets/ef6fb32e-8de2-468d-8d34-e7dbf1f1d0f6) ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
@@ -47,9 +47,8 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
-
-
+![Screenshot 2024-10-14 085123](https://github.com/user-attachments/assets/9ff02354-0916-488f-9cbd-b41922b21f7b)
+![Screenshot 2024-10-14 090014](https://github.com/user-attachments/assets/edfef1b0-60b2-4298-b173-45cff410cca6)
 
 
 ## Results: 
